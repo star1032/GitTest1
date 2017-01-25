@@ -1,16 +1,14 @@
 package calculator;
-
-//add 1122 xx zz 33jn121
-//564654g
-
+//add 1122 xx
+//564654
 public class Controller {
 
 	public static void main(String[] args) {
 		Calculator cal= new Calculator();
 		cal.add(1, 2);
-		//hijjhhjhifgfgfg
+		//hijjhhjhi
 	}
 
 }
 
-//hgikhkhkjhgfhf
+//hgikhkhkj
