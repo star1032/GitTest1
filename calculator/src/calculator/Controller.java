@@ -9,7 +9,6 @@ public class Controller {
 		Calculator cal= new Calculator();
 		cal.add(1, 2);
 		//hijjhhjhifgfgfg
-		gsdfgfdgdfgdfgdfg
 	}
 
 }
